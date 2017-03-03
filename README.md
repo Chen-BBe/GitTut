@@ -2,8 +2,9 @@
 for self-taught about github
 
 -------------------------------------------------------------
-## Overview
-![alt text](https://github.com/Seven-Bi/GitTut/git_data_transport.png)
+
+Overview
+![Overview of the Git data transport](https://github.com/Seven-Bi/GitTut/blob/master/images/git_data_transport.png)
 
 
 Q1 in what case would be called either fork/clone/fetch?
@@ -16,7 +17,9 @@ Q1 in what case would be called either fork/clone/fetch?
     to
     use origin to pull and push
     or contribute back to the upstream repo by making a pull request
-    ![alt text](https://github.com/Seven-Bi/GitTut/upstream_origin.png)
+
+    Upstream and Origin
+![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/upstream_origin.png)
 
     clone is actually copying the entire source repository locally,
     including all the history and branches, and this acts would normally be done
