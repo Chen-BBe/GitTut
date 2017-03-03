@@ -1,9 +1,7 @@
 # GitTut
 for self-taught about github
 
--------------------------------------------------------------
 
-Overview
 ![Overview of the Git data transport](https://github.com/Seven-Bi/GitTut/blob/master/images/git_data_transport.png)
 
 
@@ -32,6 +30,13 @@ Q1 in what case would be called either fork/clone/fetch?
 
 
 Q2 what different between pull and rebase?
+
+    Typically use of rebase could be first use git checkout feature branch (your branch), and
+    then git rebase on the source branch (master), that would then iteratively place your
+    changes on the latest commit history and insert the latest updates on source branch into
+    your branch, which done the same thing as the git pull but with the good linear commit history.
+
+    could also check for [more details](https://www.derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase) by Derek Gourlay
 
 Q3 what different between reset hard and reset soft?
 
