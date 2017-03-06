@@ -1,0 +1,19 @@
+GitHub
+
+    initialize your existing project $ git init
+    add your files $ git add .
+    giving your first commit $ git commit -m "init project to github"
+
+    create new repo on GitHub account without README! and copy your remote url
+    then $ git remote add origin + remote repo url
+
+    check with $ git remote -v
+
+    all right, final step $ git push origin master (your default remote main branch)
+
+
+Bitbucket
+
+    basically, do the same steps as above
+    but $ git push -u origin --all  #pushes up the repo and its refs for the first time
+    $ git push origin --tags  #pushes up any tags
