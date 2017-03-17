@@ -5,7 +5,7 @@ For self-taught about github
 ![Overview of the Git data transport](https://github.com/Seven-Bi/GitTut/blob/master/images/git_data_transport.png)
 
 
-Q1 in what case would be called either fork/clone/fetch?
+## Q1 in what case would be called either fork/clone/fetch?
 
     Fork actually create your own remote repo on your account called
     origin which a copy of the original repo but not really that one
@@ -28,7 +28,7 @@ Q1 in what case would be called either fork/clone/fetch?
     fetch & merge.
 
 
-Q2 what different between pull and rebase?
+## Q2 what different between pull and rebase?
 
     Typically use of rebase could be first use git checkout feature branch (your branch), and
     then git rebase on the source branch (master), that would then iteratively place your
@@ -38,7 +38,7 @@ Q2 what different between pull and rebase?
 - Could also check for [more details](https://www.derekgourlay.com/blog/git-when-to-merge-vs-when-to-rebase) by Derek Gourlay.
 
 
-Q3 what different between reset hard and reset soft?
+## Q3 what different between reset hard and reset soft?
 
     When you modify a file in your repository, the change is initially unstaged.
     In order to commit it, you must stage it—that is, add it to the index—using git add.
@@ -72,12 +72,12 @@ Okay, so starting from here again:
     reset to make sure your working
     directory is clean or that you're okay with losing your uncommitted changes.
 
-#### And finally, a visualization:
+####And finally, a visualization:
 
 ![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/git_reset.png)
 
 
-Q4 what different between checkout Head and checkout?
+## Q4 what different between checkout Head and checkout?
 
 
-Q5 how are the relationships among workspace index repository?
+## Q5 how are the relationships among workspace index repository?
