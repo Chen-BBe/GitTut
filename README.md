@@ -72,10 +72,9 @@ Okay, so starting from here again:
     reset to make sure your working
     directory is clean or that you're okay with losing your uncommitted changes.
 
-####And finally, a visualization:
+##### Finally, a visualization:
 
 ![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/git_reset.png)
-
 
 ## Q4 what different between checkout Head and checkout?
 
