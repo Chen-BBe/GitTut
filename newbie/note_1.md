@@ -78,14 +78,27 @@ Okay, so starting from here again:
 
 ## Q5 how should we handle the conflicts?
 
-    When faced with a merge conflict, the first step is to understand what happened. E.g.: Did one of your colleagues edit the same file on the same lines as you? Did he delete a file that you modified? Did you both add a file with the same name?
-    Git will tell you that you have "unmerged paths" (which is just another way of telling you that you have one or more conflicts) via "git status" and you probably have seen that a lot when you are here
+    When faced with a merge conflict, the first step is to understand what happened. 
+    E.g.: Did one of your colleagues edit the same file on the same lines as you? 
+    Did he delete a file that you modified? Did you both add a file with the same name?
+    Git will tell you that you have "unmerged paths" (which is just another way of telling 
+    you that you have one or more conflicts) via "git status" and you probably have seen 
+    that a lot when you are here
 
-    Now is the time to have a look at the contents of the conflicted file. Git was nice enough to mark the problematic area in the file by enclosing it in "<<<<<<< HEAD" and ">>>>>>> [other/branch/name]".
+    Now is the time to have a look at the contents of the conflicted file. Git was nice 
+    enough to mark the problematic area in the file by enclosing it in 
+    "<<<<<<< HEAD" and ">>>>>>> [other/branch/name]".
 
-    Our job is now to clean up these lines: when we're done, the file should look exactly as we want it to look. It can be necessary to consult the teammate who wrote the conflicting changes to decide which code is finally correct. Maybe it's yours, maybe it's his - or maybe a mixture between the two.
+    Our job is now to clean up these lines: when we're done, the file should look exactly 
+    as we want it to look. It can be necessary to consult the teammate who wrote the conflicting 
+    changes to decide which code is finally correct. Maybe it's yours, maybe it's his - or maybe 
+    a mixture between the two.
 
     What if you regret previous merge, don't worry too much .
-    You should always keep in mind that you can return to the state before you started the merge at any time. This should give you the confidence that you can't break anything. On the command line, a simple "git merge --abort" will do this for you.
+    You should always keep in mind that you can return to the state before you started the merge 
+    at any time. This should give you the confidence that you can't break anything. On the command 
+    line, a simple "git merge --abort" will do this for you.
 
-    In case you've made a mistake while resolving a conflict and realize this only after completing the merge, you can still easily undo it: just roll back to the commit before the merge happened with "git reset --hard " and start over again.
+    In case you've made a mistake while resolving a conflict and realize this only after completing 
+    the merge, you can still easily undo it: just roll back to the commit before the merge happened 
+    with "git reset --hard " and start over again.
