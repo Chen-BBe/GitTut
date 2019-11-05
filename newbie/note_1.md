@@ -102,3 +102,25 @@ Okay, so starting from here again:
     In case you've made a mistake while resolving a conflict and realize this only after completing 
     the merge, you can still easily undo it: just roll back to the commit before the merge happened 
     with "git reset --hard " and start over again.
+
+## Q6 how do we add current project to a remote repo?
+
+    GitHub
+
+        initialize your existing project $ git init
+        add your files $ git add .
+        giving your first commit $ git commit -m "init project to github"
+
+        create new repo on GitHub account without README! and copy your remote url
+        then $ git remote add origin + remote repo url
+
+        check with $ git remote -v
+
+        all right, final step $ git push origin master (your default remote main branch)
+
+
+    Bitbucket
+
+        basically, do the same steps as above
+        but $ git push -u origin --all  #pushes up the repo and its refs for the first time
+        $ git push origin --tags  #pushes up any tags
