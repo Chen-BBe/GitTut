@@ -128,5 +128,5 @@ Okay, so starting from here again:
 ## Q7 when gitignore does not work?
 
     .gitignore only ignores files that are not part of the repository yet. If you already git added some files, their changes will still be tracked. 
-    For the completely resolve this issue, it needs to delete those unnecessary files from remote repo by your hand and clear your cache by use git rm --cached on them (not from your file system).
+    For the completely resolve this issue, it needs to delete those unnecessary files from remote repo by your hand and clear your cache by use git rm -r --cached on them (not from your file system).
      
