@@ -1,4 +1,4 @@
-![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/cov/cover.png =250x)
+![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/cov/cover.jpg =250x)
 
 ###################################################
 For self-taught about git
@@ -8,7 +8,7 @@ For self-taught about git
 Cheet Sheet
 ========================
 Give yourself a quick try
-![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/sheet_sheet.png)
+![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/cheat_sheet.png)
 
 ========================
 Newbie
