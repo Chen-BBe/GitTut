@@ -18,7 +18,7 @@ Give yourself a quick try
 - Understand how does git help tracking of project
 
 #### - [Commit](./Section_1/2_commit.md)
-- Understand how does git help tracking of project
+- Overview to commit in git
 
 #### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
