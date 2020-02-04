@@ -14,9 +14,11 @@ Give yourself a quick try
 
 
 ### Section 1
-#### - [Sequence](./Section_1/sequence.md)
+#### - [Sequence](./Section_1/1_sequence.md)
 - Understand how does git help tracking of project
 
+#### - [Commit](./Section_1/2_commit.md)
+- Understand how does git help tracking of project
 
 #### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
