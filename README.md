@@ -20,7 +20,7 @@ Give yourself a quick try
 #### - [Commit](./Section_1/2_commit.md)
 - Overview to commit in git
 
-#### - [Commit](./Section_1/3_branch.md)
+#### - [Branch](./Section_1/3_branch.md)
 - Why we need branch with git
 
 #### Common Questions
