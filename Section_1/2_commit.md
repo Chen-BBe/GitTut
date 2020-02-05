@@ -14,3 +14,12 @@ Git also maintains a history of which commits were made when. That's why most co
 note: blob (binary large object) is the object type used to store the contents of each file in a repository.
 
 It's a lot to take in, but for now you can think of commits as snapshots of the project. Commits are very lightweight and switching between them is wicked fast!
+
+
+### Usage
+
+save changes compare to previous snapshot
+- git add your-project-path
+
+commit your changes
+- git commit -m 'a brief description for the snapshot'
