@@ -10,7 +10,7 @@ of sauce, then we will have a new branch for this feature(new sauce) beside mast
 
 ![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/branch_1.png)
 
-Eventually, chief will get the new feature done and put this new sauce on the pizza by merging these two branches, go check [Section_1 merge.](./Section_1/4_merge.md).
+Eventually, chief will get the new feature done and put this new sauce on the pizza by merging these two branches, go check [merge.](./Section_1/4_merge.md)
 
 
 ### Usage

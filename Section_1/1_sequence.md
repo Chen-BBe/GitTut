@@ -14,4 +14,4 @@ each circle represents a "commit" and the sequential of commits form a "sequence
 "commit" this idea will fit any project that you want to track of and any change you did will be able to check/recover back by looking 
 up your commit.
 
-For how commit helps us with this, go check [Section_1 commit.](./Section_1/2_commit.md)
+For how commit helps us with this, go check [commit.](./Section_1/2_commit.md)
