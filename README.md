@@ -13,7 +13,7 @@ Give yourself a quick try
 ![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/cheat_sheet.png)
 
 
-### Section 1
+### Section 1 - concepts of git
 #### - [Sequence](./Section_1/1_sequence.md)
 - Understand how does git help tracking of project
 
@@ -22,6 +22,9 @@ Give yourself a quick try
 
 #### - [Branch](./Section_1/3_branch.md)
 - Why we need branch with git
+
+#### - [Merge](./Section_1/4_merge.md)
+- Combine branches
 
 #### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
