@@ -26,5 +26,8 @@ Give yourself a quick try
 #### - [Merge](./Section_1/4_merge.md)
 - Combine branches
 
+#### - [Merge](./Section_1/5_rebase.md)
+- Rebase introduction
+
 #### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
