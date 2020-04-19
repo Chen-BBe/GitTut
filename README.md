@@ -26,7 +26,7 @@ Give yourself a quick try
 #### - [Merge](./Section_1/4_merge.md)
 - Combine branches
 
-#### - [Merge](./Section_1/5_rebase.md)
+#### - [Rebase](./Section_1/5_rebase.md)
 - Rebase introduction
 
 #### Common Questions
