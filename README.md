@@ -29,5 +29,8 @@ Give yourself a quick try
 #### - [Rebase](./Section_1/5_rebase.md)
 - Rebase introduction
 
+#### - [Rebase advance](./Section_1/6_rebase_case_1.md)
+- Rebase use case 1
+
 #### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
