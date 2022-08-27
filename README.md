@@ -32,5 +32,8 @@ Give yourself a quick try
 #### - [Rebase advance](./Section_1/6_rebase_case_1.md)
 - Rebase use case 1
 
+#### - [Merge advance](./Section_1/7_merge_flag.md)
+- Merge with flag --no-ff
+
 #### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
