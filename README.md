@@ -35,5 +35,8 @@ Give yourself a quick try
 #### - [Merge advance](./Section_1/7_merge_flag.md)
 - Merge with flag --no-ff
 
+#### - [Three-way merges & Fast forward](./Section_1/8_three-way_merges_vs_fast_forward.md)
+- Three-way merges vs Fast forward
+
 #### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
