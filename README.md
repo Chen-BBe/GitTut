@@ -40,7 +40,7 @@ Give yourself a quick try
 
 
 ### Section 2 - how to discard changes
-#### - [discard](./Section_2/1_discard.md)
+#### - [Discard](./Section_2/1_discard.md)
 
 
 ### Common Questions
