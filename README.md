@@ -8,7 +8,7 @@ different sections. However you will still need some basic use and understanding
 If you already have some experiences of git, then I hope it works for you.
 
 
-#### Cheet Sheet
+### Cheet Sheet
 Give yourself a quick try
 ![Upstream vs Origin](https://github.com/Seven-Bi/GitTut/blob/master/images/cheat_sheet.png)
 
@@ -38,5 +38,10 @@ Give yourself a quick try
 #### - [Three-way merges & Fast forward](./Section_1/8_three-way_merges_vs_fast_forward.md)
 - Three-way merges vs Fast forward
 
-#### Common Questions
+
+### Section 2 - how to discard changes
+#### - [discard](./Section_2/1_discard.md)
+
+
+### Common Questions
 If you just get stuck with some typical git use in your side then just ``quick check here`` - [common questions when we use git](./common_questions/note.md)
